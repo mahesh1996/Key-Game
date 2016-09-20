@@ -1,0 +1,10 @@
+.color-keyboard{
+	color: #ffffff;
+}
+.home-login-box{
+	background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left,rgba(39,128,227,0.5),rgba(39,128,227,1));
+  background: -o-linear-gradient(right,rgba(39,128,227,0.5),rgba(39,128,227,1));
+  background: -moz-linear-gradient(right,rgba(39,128,227,0.5),rgba(39,128,227,1));
+  background: linear-gradient(to right, rgba(39,128,227,0.5), rgba(39,128,227,1));
+}
