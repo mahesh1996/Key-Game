@@ -1,7 +1,7 @@
 # Key-Game
 Real time Keyboard typing Game
 
-First Install Laravel and dependencies using compose.
+First Install Laravel and dependencies using composer.
 ```
 composer install
 ```
